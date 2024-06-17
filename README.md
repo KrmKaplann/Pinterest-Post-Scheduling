@@ -69,7 +69,7 @@ The Excel planning file allows you to efficiently organise content descriptions,
 
 When editing the Excel file, attention should be paid to the description section. The description section contains the title and description sections unlike other Excel Files. At this point, an extra keyword should be used to separate the description and title sections. Thanks to this keyword, the two sections are separated from each other and placed in the appropriate places.
 
-The keyword "\Başlık" is used to make this distinction. The text before the section where this keyword is positioned refers to the title and after the title refers to the description section.
+The keyword "\Title" is used to make this distinction. The text before the section where this keyword is positioned refers to the title and after the title refers to the description section.
 
 
 <div align="center">
