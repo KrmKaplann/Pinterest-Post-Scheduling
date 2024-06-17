@@ -7,13 +7,15 @@ This program allows you to effectively plan your **Pinterest** posts using **Exc
   <img src="https://github.com/KrmKaplann/Pinterest-Post-Scheduling/assets/172985380/1e86e9d7-77d1-4046-9512-ad458d091514">
 </div>
 
-
+<br>
 
 <div align="center">
   You can get more detailed information about the use of the programme by watching the YouTube Video below...
+  <br>
   <a href="https://www.youtube.com/watch?v=OYOa89EtY9c&t">https://www.youtube.com/watch?v=OYOa89EtY9c&t</a>
 </div>
 
+<br><br>
 
 
 For instance, imagine you have **10 Pinterest accounts** and you need to plan content for each one. Manually managing this process through Pinterest would be quite time-consuming and complex. Instead, with this Excel-based program, you can manage and enhance your content more easily. Thanks to the flexibility of Excel, you can view all your social media content at a glance and quickly make adjustments when needed.
