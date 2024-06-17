@@ -94,9 +94,9 @@ The capabilities of the program are essentially as follows:
 
 ### Explanation of Placeholders:
 
-**<path_to_SocialMediaAccount.xlsx>:** This is the path to the Excel file that contains the social media accounts information.
-**<path_to_PinterestAccounts.xlsx>:** This is the path to the Excel file that contains the Pinterest accounts information.
-**<path_to_API_folder>:** This is the path to the folder where the JSON files containing the API cookies are stored.
+**<path_to_SocialMediaAccount.xlsx>:** This is the path to the Excel file that contains the social media accounts information.<br>
+**<path_to_PinterestAccounts.xlsx>:** This is the path to the Excel file that contains the Pinterest accounts information.<br>
+**<path_to_cover_images_folder>:** This is the path to the folder where the cover images for the posts are stored.<br>
+**<path_to_API_folder>:** This is the path to the folder where the JSON files containing the API cookies are stored.<br>
 **<path_to_videos_folder>**: This is the path to the folder where the video files for the posts are stored.
-**<path_to_cover_images_folder>:** This is the path to the folder where the cover images for the posts are stored.
 
